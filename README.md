@@ -7,4 +7,4 @@
 このリポジトリのタスクはプロジェクトにて管理されています。
 タスクの追加・進行・完了時は、プロジェクトの更新も忘れないようにしてください。
 
-https://github.com/kanakana-chang/lp-practice-static/projects/2
+https://github.com/kanakana-chang/lp-practice-static/projects/3
